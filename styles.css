@@ -1,0 +1,148 @@
+.img{
+    border-width:1px;
+    margin-top:10px;
+    transition:0.25;
+  }
+  .img:hover{
+    opacity: 0.70;
+    transform: scale(1.25);
+  }
+  .email{
+    margin-top: 15px;
+    font-size:20px;
+  }
+  .email:hover{
+    opacity:0.70;
+  }
+  .bg-1{
+    background-color:#303655;
+    margin-bottom: 10px;
+    padding: 10px;
+
+    color:white;
+    line-height:1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+  }
+  .resize{
+    padding:20px;
+    margin: 0 auto;
+    transition: transform .25s;
+  }
+  .resize:hover{
+    transform: scale(1.20);
+  }
+  #bar{
+    background-color: #0C243C;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+
+  }
+  #name{
+    margin-top:12px;
+    color: white;
+    font-size:35px;
+  }
+  body{
+    font: 20px Montserrat, sans-serif;
+    line-height: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #84A7BA;
+  }
+  .img{
+    border-width:1px;
+    margin-top:10px;
+    transition:0.25;
+  }
+  .img:hover{
+    transform: scale(1.25);
+    filter:drop-shadow(0px 0px 1px white);
+  }
+  .email{
+    margin-top: 15px;
+    font-size:20px;
+  }
+  .email:hover{
+    opacity:0.70;
+  }
+  .category{
+    margin-top:20px;
+    font-size:35px;
+    display:flex;
+    justify-content: left;
+    align-items:left;
+    margin-bottom:15px;
+    text-shadow: 1px 1px #000000;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+
+    
+  }
+  .text{
+    font-size:17px;
+    text-align:left;
+    text-shadow: 1px 1px #000000;
+
+  }
+  .bg-1{
+    background-color:#303655;
+    margin-bottom: 10px;
+    padding: 10px;
+
+    color:white;
+    text-shadow: 1px 1px #000000;
+    line-height:1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+  }
+  .bg-2{
+    color:white;
+    background-color: #1c2045;
+    text-shadow: 1px 1px #84A7BA;
+
+  }
+  .resize{
+    padding:20px;
+    margin: 0 auto;
+    transition: transform .25s;
+  }
+  .resize:hover{
+    transform: scale(1.20);
+  }
+  #bar{
+    background-color: #0C243C;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+
+  }
+  #name{
+    margin-top:12px;
+    color: white;
+    font-size:35px;
+  }
+
+  html{
+    background-color: #055082;
+  }
+  *{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height:18pt;
+  }
